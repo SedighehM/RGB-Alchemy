@@ -1,0 +1,32 @@
+.information-line {
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+.information-element {
+  padding-top: 15px;
+}
+.text-element {
+  padding-top: 25px;
+}
+.tile {
+  height: 25px;
+  width: 25px;
+  display: inline-block;
+}
+.source {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid gray;
+}
+.closest-color,
+.delta {
+  display: inline-block;
+  padding-right: 15px;
+}
+.tile-info {
+  position: relative;
+  top: 6px;
+  margin: 14px;
+}
